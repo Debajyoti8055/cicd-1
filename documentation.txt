@@ -15,5 +15,5 @@ the do a git pull as we change it in github repository
 
 add your github secrets
 in the repository settings --> secrets and variables --> actions --> add your github secrets
-
-3:13
+username is the docker username not email
+password is the docker password
