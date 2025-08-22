@@ -4,7 +4,7 @@ const app = express();
 app.get('/', (req, res) => {
     res.json({
         status: 200,
-        message: 'Hello World from CICD-1'
+        message: 'Hello World from CICD-1 test-2'
     });
 });
 
